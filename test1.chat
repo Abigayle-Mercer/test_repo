@@ -39,17 +39,28 @@
       "id": "709a2ef2-e9e7-4c83-a7cb-94fd641965a7",
       "time": 1747856826.950248,
       "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+    },
+    {
+      "type": "msg",
+      "body": "@AI-Collaborator can you add, commit, and push the current file to the current repo? ",
+      "raw_time": false,
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "time": 1747856912.41601,
+      "id": "6589d571-1007-4377-b8d4-9746f004ade6",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837"
     }
   ],
   "users": {
     "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator": {
-      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "display_name": "AI Collaborator",
+      "mention_name": "@AI-Collaborator",
+      "name": "AI Collaborator",
       "initials": null,
       "color": null,
-      "display_name": "AI Collaborator",
-      "avatar_url": "/api/ai/static/jupyternaut.svg",
-      "mention_name": "@AI-Collaborator",
-      "name": "AI Collaborator"
+      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
     },
     "jupyter-ai-personas::jupyter_ai::JupyternautPersona": {
       "mention_name": null,

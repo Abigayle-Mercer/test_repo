@@ -23,3 +23,8 @@
 - [ ] Called `git_get_repo_root_from_notebookpath` at 12:47 PM PDT
 - [ ] Called `git_add` at 12:47 PM PDT
 - [ ] Called `git_add` at 12:47 PM PDT
+- [ ] Called `git_commit` at 12:47 PM PDT
+- [ ] Called `git_get_repo_root_from_notebookpath` at 12:48 PM PDT
+- [ ] Called `git_add` at 12:48 PM PDT
+- [ ] Called `git_add` at 12:48 PM PDT
+- [ ] Called `git_add` at 12:48 PM PDT

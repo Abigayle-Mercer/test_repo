@@ -28,3 +28,16 @@
 - [ ] Called `git_add` at 12:48 PM PDT
 - [ ] Called `git_add` at 12:48 PM PDT
 - [ ] Called `git_add` at 12:48 PM PDT
+- [ ] Called `git_commit` at 12:48 PM PDT
+- [ ] Called `git_push` at 12:48 PM PDT
+- [ ] Called `git_push` at 12:48 PM PDT
+- [ ] Called `add_cell` at 12:50 PM PDT
+- [ ] Called `get_max_cell_index` at 12:50 PM PDT
+- [ ] Called `add_cell` at 12:50 PM PDT
+- [ ] Called `write_to_cell` at 12:50 PM PDT
+- [ ] Called `write_to_cell` at 12:50 PM PDT
+- [ ] Called `add_cell` at 12:51 PM PDT
+- [ ] Called `write_to_cell` at 12:51 PM PDT
+- [ ] Called `git_get_repo_root_from_notebookpath` at 12:51 PM PDT
+- [ ] Called `git_add` at 12:51 PM PDT
+- [ ] Called `git_add` at 12:51 PM PDT

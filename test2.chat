@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "id": "33f18744-9d15-4545-aa06-a4d457be8001",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "type": "msg",
+      "body": "@AI-Collaborator Hello!",
+      "time": 1747857001.254946,
+      "raw_time": false
+    },
+    {
+      "type": "msg",
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "raw_time": false,
+      "time": 1747857001.3876789,
+      "mentions": [],
+      "id": "e0328a8e-7a56-4912-a640-83e004c42cb9",
+      "body": "\u274c Could not find your active notebook!"
+    },
+    {
+      "raw_time": false,
+      "body": "@AI-Collaborator hello!",
+      "id": "e448e272-ab7d-4ea6-8315-87e2143a1da9",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "type": "msg",
+      "time": 1747857006.1199841
+    },
+    {
+      "type": "msg",
+      "mentions": [],
+      "body": "\u274c Could not find your active notebook!",
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "raw_time": false,
+      "time": 1747857006.1861,
+      "id": "20b63a55-e5af-42b1-beff-fc9d304f14af"
+    },
+    {
+      "time": 1747857010.493712,
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "body": "@AI-Collaborator hello!",
+      "id": "400fa99a-eb2c-4d60-b07e-25c384a05cf7",
+      "raw_time": false,
+      "type": "msg"
+    },
+    {
+      "raw_time": false,
+      "type": "msg",
+      "mentions": [],
+      "id": "ff97a50f-670d-41f9-8fe1-52b07ddf2b34",
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "body": "Hello! How can I assist you today?",
+      "time": 1747857011.395537
+    },
+    {
+      "body": "@AI-Collaborator Could you explore list comprehension in a couple cells in this notebook, then add, commit, and push to the main branch in the current repo? ",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "raw_time": false,
+      "id": "d9008897-ab83-4071-8096-346f8cdc66ee",
+      "time": 1747857038.4680462,
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "type": "msg"
+    }
+  ],
+  "users": {
+    "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator": {
+      "name": "AI Collaborator",
+      "initials": null,
+      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "display_name": "AI Collaborator",
+      "color": null,
+      "mention_name": "@AI-Collaborator"
+    },
+    "a9bc206a3a4e428cbefc252b3f834837": {
+      "avatar_url": null,
+      "color": "var(--jp-collaborator-color3)",
+      "mention_name": "@Anonymous-Ersa",
+      "display_name": "Anonymous Ersa",
+      "username": "a9bc206a3a4e428cbefc252b3f834837",
+      "initials": "AE",
+      "name": "Anonymous Ersa"
+    },
+    "jupyter-ai-personas::jupyter_ai::JupyternautPersona": {
+      "username": "jupyter-ai-personas::jupyter_ai::JupyternautPersona",
+      "color": null,
+      "display_name": "Jupyternaut",
+      "mention_name": null,
+      "name": "Jupyternaut",
+      "initials": null,
+      "avatar_url": "/api/ai/static/jupyternaut.svg"
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "33986947-68c5-4042-bd42-bd52a0389435"
+  }
+}

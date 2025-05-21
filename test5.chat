@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "body": "@AI-Collaborator Can you explore dynamic programming in a couple of cells in this notebook? ",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "raw_time": false,
+      "time": 1747858503.3769531,
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "id": "f37a67c0-c5d6-4e62-9d66-39100d0360ec",
+      "type": "msg"
+    }
+  ],
+  "users": {
+    "a9bc206a3a4e428cbefc252b3f834837": {
+      "initials": "AE",
+      "name": "Anonymous Ersa",
+      "mention_name": "@Anonymous-Ersa",
+      "display_name": "Anonymous Ersa",
+      "avatar_url": null,
+      "color": "var(--jp-collaborator-color3)",
+      "username": "a9bc206a3a4e428cbefc252b3f834837"
+    },
+    "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator": {
+      "display_name": "AI Collaborator",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "initials": null,
+      "mention_name": null,
+      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "color": null,
+      "name": "AI Collaborator"
+    },
+    "jupyter-ai-personas::jupyter_ai::JupyternautPersona": {
+      "name": "Jupyternaut",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "mention_name": null,
+      "username": "jupyter-ai-personas::jupyter_ai::JupyternautPersona",
+      "display_name": "Jupyternaut",
+      "initials": null,
+      "color": null
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "4bbe1cc9-3cdf-4f58-91d9-483a24472e90"
+  }
+}

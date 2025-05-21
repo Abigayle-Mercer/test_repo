@@ -1,0 +1,77 @@
+{
+  "messages": [
+    {
+      "id": "c13831a1-5014-4613-88a4-7f3d0333970c",
+      "time": 1747856764.629195,
+      "body": "@AI-Collaborator hello!",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "raw_time": false,
+      "type": "msg"
+    },
+    {
+      "type": "msg",
+      "mentions": [],
+      "time": 1747856766.3231308,
+      "id": "d0047c53-afbd-4c72-a361-009cb993b2f3",
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "raw_time": false,
+      "body": "Hello! How can I assist you today?"
+    },
+    {
+      "raw_time": false,
+      "type": "msg",
+      "id": "3ac4fcaf-75b9-4574-969f-067b61796c9a",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "body": "@AI-Collaborator can you add some cells to this notebook to explore list comprehension, then add, commit, and push to the current repo please? ",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "time": 1747856790.030355
+    },
+    {
+      "mentions": [],
+      "body": "It seems like there was an error while trying to add the notebook to the git staging area. The error message suggests that the path provided is not a directory. Git operations usually work on directories (i.e., repositories) rather than individual files. Let's try to add all changes in the repository instead.",
+      "type": "msg",
+      "raw_time": false,
+      "id": "709a2ef2-e9e7-4c83-a7cb-94fd641965a7",
+      "time": 1747856826.950248,
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+    }
+  ],
+  "users": {
+    "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator": {
+      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "initials": null,
+      "color": null,
+      "display_name": "AI Collaborator",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "mention_name": "@AI-Collaborator",
+      "name": "AI Collaborator"
+    },
+    "jupyter-ai-personas::jupyter_ai::JupyternautPersona": {
+      "mention_name": null,
+      "initials": null,
+      "display_name": "Jupyternaut",
+      "username": "jupyter-ai-personas::jupyter_ai::JupyternautPersona",
+      "name": "Jupyternaut",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "color": null
+    },
+    "a9bc206a3a4e428cbefc252b3f834837": {
+      "initials": "AE",
+      "avatar_url": null,
+      "color": "var(--jp-collaborator-color3)",
+      "mention_name": "@Anonymous-Ersa",
+      "name": "Anonymous Ersa",
+      "display_name": "Anonymous Ersa",
+      "username": "a9bc206a3a4e428cbefc252b3f834837"
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "4a0ef160-21e6-4f2f-928c-e8250cb0022c"
+  }
+}

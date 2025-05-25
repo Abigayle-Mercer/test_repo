@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "id": "5a344db5-4133-4c9c-988f-34a50b63641e",
+      "type": "msg",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "body": "@AI-Collaborator hello",
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "time": 1748212572.807393,
+      "raw_time": false
+    },
+    {
+      "type": "msg",
+      "raw_time": false,
+      "sender": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator",
+      "mentions": [],
+      "time": 1748212573.101599,
+      "body": "\u274c Could not find your active notebook!",
+      "id": "47b183df-bd15-4e5b-8933-83e3437f2865"
+    },
+    {
+      "type": "msg",
+      "body": "@AI-Collaborator hello",
+      "sender": "a9bc206a3a4e428cbefc252b3f834837",
+      "time": 1748212577.0888278,
+      "mentions": [
+        "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+      ],
+      "id": "7b034286-2b96-4852-9244-8a97bdf7b044",
+      "raw_time": false
+    }
+  ],
+  "users": {
+    "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator": {
+      "name": "AI Collaborator",
+      "mention_name": null,
+      "initials": null,
+      "display_name": "AI Collaborator",
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "color": null,
+      "username": "jupyter-ai-personas::test_ai_persona::AINotebookCollaborator"
+    },
+    "a9bc206a3a4e428cbefc252b3f834837": {
+      "username": "a9bc206a3a4e428cbefc252b3f834837",
+      "avatar_url": null,
+      "mention_name": "@Anonymous-Ersa",
+      "display_name": "Anonymous Ersa",
+      "name": "Anonymous Ersa",
+      "color": "var(--jp-collaborator-color3)",
+      "initials": "AE"
+    },
+    "jupyter-ai-personas::jupyter_ai::JupyternautPersona": {
+      "username": "jupyter-ai-personas::jupyter_ai::JupyternautPersona",
+      "initials": null,
+      "avatar_url": "/api/ai/static/jupyternaut.svg",
+      "color": null,
+      "mention_name": null,
+      "name": "Jupyternaut",
+      "display_name": "Jupyternaut"
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "c50fa7c7-8b01-45f2-8cd5-96abd7f6aa58"
+  }
+}
